@@ -8,7 +8,7 @@
        "coordinates":  [ 24.991639,-28.8166236 ]
     },
     "properties": {
-    "Country":"South Africa ",
+    "Country":"South Africa",
     "2004":357,
     "2010":441,
     "2015":527,
@@ -25,7 +25,7 @@
        "coordinates":  [ 35.7878438,-6.5247123 ]
     },
     "properties": {
-    "Country":"Tanzania ",
+    "Country":"Tanzania",
     "2004":416,
     "2010":691,
     "2015":1077,
@@ -39,10 +39,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 28.289698,-15.4139213 ]
+       "coordinates":  [ 23.289698,0.4139213 ]
     },
     "properties": {
-    "Country":"Democratic Republic of Congo ",
+    "Country":"Democratic Republic of Congo",
     "2004":171,
     "2010":296,
     "2015":333,
@@ -59,7 +59,7 @@
        "coordinates":  [ 102.2656823,4.5693754 ]
     },
     "properties": {
-    "Country":"Malaysia �",
+    "Country":"Malaysia",
     "2004":892,
     "2010":1180,
     "2015":1252,
@@ -76,7 +76,7 @@
        "coordinates":  [ 107.9650855,15.9266657 ]
     },
     "properties": {
-    "Country":"Vietnam �",
+    "Country":"Vietnam",
     "2004":289,
     "2010":424,
     "2015":565,
@@ -93,7 +93,7 @@
        "coordinates":  [ 95.9999652,17.1750495 ]
     },
     "properties": {
-    "Country":"Myanmar �",
+    "Country":"Myanmar",
     "2004":147,
     "2010":249,
     "2015":301,
@@ -110,7 +110,7 @@
        "coordinates":  [ 144.2489081,-5.6816069 ]
     },
     "properties": {
-    "Country":"Papua New Guinea �",
+    "Country":"Papua New Guinea",
     "2004":295,
     "2010":453,
     "2015":478,
@@ -127,7 +127,7 @@
        "coordinates":  [ -66.1109318,8.0018709 ]
     },
     "properties": {
-    "Country":"Venezuela �",
+    "Country":"Venezuela",
     "2004":219,
     "2010":270,
     "2015":312,
@@ -144,7 +144,7 @@
        "coordinates":  [ -100.445882,39.7837304 ]
     },
     "properties": {
-    "Country":"United States ",
+    "Country":"United States",
     "2004":1143,
     "2010":1152,
     "2015":1299,
@@ -161,14 +161,14 @@
        "coordinates":  [ -79.3666965,-1.3397668 ]
     },
     "properties": {
-    "Country":"Ecuador �",
+    "Country":"Ecuador",
     "2004":2151,
     "2010":2255,
     "2015":2308,
     "2019":2393,
     "2020":2501,
     "2021":2568,
-    "2022":1692
+    "2022":2692
     }
   },
   {
@@ -178,7 +178,7 @@
        "coordinates":  [ 78.6677428,22.3511148 ]
     },
     "properties": {
-    "Country":"India �",
+    "Country":"India",
     "2004":552,
     "2010":758,
     "2015":1039,
@@ -195,7 +195,7 @@
        "coordinates":  [ -75.0458515,-6.8699697 ]
     },
     "properties": {
-    "Country":"Peru �",
+    "Country":"Peru",
     "2004":508,
     "2010":551,
     "2015":643,
@@ -212,7 +212,7 @@
        "coordinates":  [ 134.755,-24.7761086 ]
     },
     "properties": {
-    "Country":"Australia �",
+    "Country":"Australia",
     "2004":621,
     "2010":853,
     "2015":909,
@@ -229,7 +229,7 @@
        "coordinates":  [ -102.0077097,23.6585116 ]
     },
     "properties": {
-    "Country":"Mexico �",
+    "Country":"Mexico",
     "2004":748,
     "2010":943,
     "2015":1109,
@@ -243,10 +243,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 104.999927,35.000074 ]
+       "coordinates":  [ 108.999927,30.000074 ]
     },
     "properties": {
-    "Country":"China �",
+    "Country":"China",
     "2004":773,
     "2010":859,
     "2015":1040,
@@ -263,7 +263,7 @@
        "coordinates":  [ -72.9088133,4.099917 ]
     },
     "properties": {
-    "Country":"Colombia �",
+    "Country":"Colombia",
     "2004":593,
     "2010":681,
     "2015":751,
@@ -280,7 +280,7 @@
        "coordinates":  [ 117.8902853,-2.4833826 ]
     },
     "properties": {
-    "Country":"Indonesia �",
+    "Country":"Indonesia",
     "2004":833,
     "2010":1142,
     "2015":1246,
@@ -297,7 +297,7 @@
        "coordinates":  [ -53.2,-10.3333333 ]
     },
     "properties": {
-    "Country":"Brazil �",
+    "Country":"Brazil",
     "2004":697,
     "2010":773,
     "2015":966,
